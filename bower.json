@@ -14,5 +14,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "pl-foo": "git://github.com/tschwartz/pl-foo.git#master",
+    "pl-bar": "git://github.com/tschwartz/pl-bar.git#master"
+  }
 }
