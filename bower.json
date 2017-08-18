@@ -16,7 +16,7 @@
     "tests"
   ],
   "devDependencies": {
-    "pl-foo": "git://github.com/tschwartz/pl-foo.git#master",
-    "pl-bar": "git://github.com/tschwartz/pl-bar.git#master"
+    "pl-foo": "git://github.com/tschwartz/pl-foo.git#^1.0.0",
+    "pl-bar": "git://github.com/tschwartz/pl-bar.git#^1.0.0"
   }
 }
